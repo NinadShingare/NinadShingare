@@ -37,7 +37,7 @@
 </picture>
 
 ###
-<h1 align="center">Hi 👋, I'm Ninad Shingare</h1>
+<h1 align="center">I'm Ninad Shingare</h1>
 <h3 align="center">An aspiring Backend Developer from India actively looking for job opportunities</h3>
 
 - 🔭 I’m currently working on **Portfolio Project**
@@ -48,9 +48,8 @@
 
 - 📫 How to reach me **nvshingare67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s3us55MDrABGHtl2EHQPOaYv3o5o1ZKx/view?usp=sharing](https://drive.google.com/file/d/1s3us55MDrABGHtl2EHQPOaYv3o5o1ZKx/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+- 📄 To Know about my experiences <a href="https://drive.google.com/file/d/1s3us55MDrABGHtl2EHQPOaYv3o5o1ZKx/view?usp=sharing">**RESUME**</a>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ninadshingare/">LinkedIn</a></h3>
 <p align="left">
 </p>
 
