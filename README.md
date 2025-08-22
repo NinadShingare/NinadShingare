@@ -38,11 +38,11 @@
 
 ###
 <h1 align="center">I'm Ninad Shingare</h1>
-<h3 align="center">An aspiring Backend Developer from India actively looking for job opportunities</h3>
+<h3 align="center">An aspiring Software Developer from India actively looking for job opportunities</h3>
 
 - 🔭 I’m currently working on **MyPortfolio Project**
 
-- 🌱 I’m currently learning **Next.js and Docker**
+- 🌱 I’m currently learning **Next.js, Docker and AWS**
 
 - 💬 Ask me about **Java, Python, Spring Boot, MySQL, MongoDB**
 
