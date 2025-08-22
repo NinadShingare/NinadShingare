@@ -40,15 +40,15 @@
 <h1 align="center">I'm Ninad Shingare</h1>
 <h3 align="center">An aspiring Backend Developer from India actively looking for job opportunities</h3>
 
-- 🔭 I’m currently working on **Portfolio Project**
+- 🔭 I’m currently working on **MyPortfolio Project**
 
 - 🌱 I’m currently learning **Next.js and Docker**
 
 - 💬 Ask me about **Java, Python, Spring Boot, MySQL, MongoDB**
 
-- 📫 How to reach me **nvshingare67@gmail.com**
+- 📫 Reach me on **nvshingare67@gmail.com**
 
-- 📄 To Know about my experiences <a href="https://drive.google.com/file/d/1s3us55MDrABGHtl2EHQPOaYv3o5o1ZKx/view?usp=sharing">**RESUME**</a>
+- 📄 To Know more about my experiences download <a href="https://drive.google.com/file/d/1s3us55MDrABGHtl2EHQPOaYv3o5o1ZKx/view?usp=sharing">**RESUME**</a>
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ninadshingare/">LinkedIn</a></h3>
 <p align="left">
 </p>
