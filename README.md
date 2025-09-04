@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-##readme file
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo"  />
